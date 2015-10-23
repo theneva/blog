@@ -1,0 +1,9 @@
+# VIM
+.swp
+.swo
+*.swp
+*.swo
+
+# OSX stuff
+.DS_Store
+
