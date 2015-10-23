@@ -28,6 +28,7 @@ There would be no need for most modifiers on variables, methods, or classes:
 - `protected`
 - `public`
 
+
 - Everything could be public
 - No `final`: developers would never overwrite this.
 - No `abstract`: developers would never instantiate a class that is not meant to be instantiated.
