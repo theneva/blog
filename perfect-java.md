@@ -52,6 +52,10 @@ Developers who don't make mistakes also don't introduce technical debt. This rem
 - [`modernizer-maven-plugin`](https://github.com/andrewgaul/modernizer-maven-plugin)
 - [`pmd`](https://pmd.github.io/)
 
+## No refactoring
+
+Nope, except if the requirements change. No payment of technical debt.
+
 ## No unit/integration/system/e2e/acceptance/qa tests
 
 Goodbye,
